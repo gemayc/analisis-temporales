@@ -200,13 +200,7 @@ Ciclos que ocurren cada día:
 ┃ ┗ 📄 Aprende-Analisis-de-Series-Temporales.pdf
 ┃
 ┣ 📂 notebooks/                         # 📓 Jupyter notebooks de análisis
-┃ ┣ 📊 01_exploratory_analysis.ipynb   # Análisis exploratorio de datos
-┃ ┣ 🔬 02_decomposition.ipynb          # Descomposición de componentes
-┃ ┣ 📈 03_trend_analysis.ipynb         # Análisis de tendencias
-┃ ┣ 🔄 04_seasonality_detection.ipynb  # Detección de estacionalidad
-┃ ┗ 🤖 05_forecasting_models.ipynb     # Modelos predictivos
-┃
-┣ 📜 main.py                            # 🐍 Script principal de ejecución
+┃ ┣ 📊 prediccion_vuelos.ipynb          #     Predicción Arima y Sarima
 ┣ ⚙️ pyproject.toml                     # 📦 Configuración y dependencias
 ┣ 🔒 uv.lock                            # 🔐 Lockfile de versiones
 ┣ 🔢 .python-version                    # Versión específica de Python
